@@ -1,6 +1,5 @@
 # README
 
-## Professional Summary
 Passionate software developer with experience in compiled and interpreted languages. Skilled in multi-platform application development, GUI design, and mathematical computation codebases. Focused on performant, maintainable systems with local LLM integration for developer tooling.
 
 ## Technical Skills
